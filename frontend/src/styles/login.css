@@ -1,0 +1,386 @@
+
+    .fr{
+    width: 320px;
+    height: 314px;
+    
+    }
+    .he{
+    width: 230px;
+    height: 38px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    font-size: 30px;
+    
+    letter-spacing: 0%;
+    color: #232323;
+    
+    margin-left: 45px;
+    }
+    .box{
+    width: 200px;
+    height: 120px;
+    margin-top: -15px;
+    
+    
+    }
+    .box2{
+        width: 320px;
+        height: 120px;
+        gap: 24px;
+        margin-top:-40px;
+        
+        }
+    .con{
+        width: 320px;
+    height: 48px;
+    gap: 6px;
+    
+    
+    }
+    .inp{
+    width: 320px;
+    height: 30px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    padding-left: 14px;
+    gap: 8px;
+    border-radius: 8px;
+    border-width: 1px;
+    border: 1px solid #D6D6D6;
+    
+    
+    
+        
+        
+    }
+    .content{
+        width: 100px;
+    height: 24px;
+    gap: 8px;
+    
+    }
+    .co1{
+        width: 16.66666603088379px;
+    height: 13.333333015441895px;
+    top: 3.33px;
+    left: 1.67px;
+    border-width: 1.67px;
+    
+    }
+    
+    #UID{
+    width: 292px;
+    height: 24px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    border: none;
+    
+    
+    
+    }
+    .but{
+    width: 350px;
+    height: 60px;
+    gap: 8px;
+    margin-top: -15px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    background: #2B3A67;
+    border: 1px solid #2B3A67;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    color: #FCFCFC;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    }
+    .but:hover {
+        background: #1E2A4D;
+    }
+    .link{
+        width: 292px;
+    height: 24px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    border: none;
+   
+    
+    }
+    a:link{
+        text-decoration: none;
+       
+    }
+    .for{
+        width: 1440px;
+        height: 624px;
+        padding-top: 24px;
+        padding-right: 32px;
+        padding-bottom: 24px;
+        padding-left: 32px;
+        gap: 16px;
+        
+        
+        }
+        .fr{
+        width: 320px;
+        height: 314px;
+        gap: 48px;
+        margin: 64px 564px;
+        
+        
+        }
+        .he{
+        width: 230px;
+        height: 38px;
+        font-family: Plus Jakarta Sans;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 38px;
+        letter-spacing: 0%;
+        color: #232323;
+        padding: 30px;
+        margin-left: 45px;
+        }
+        .box{
+        width: 200px;
+        height: 120px;
+        margin-top: -15px;
+        
+        
+        }
+        .box2{
+            width: 320px;
+            height: 120px;
+            gap: 24px;
+            margin-top:-40px;
+            
+            }
+        .con{
+            width: 320px;
+        height: 48px;
+        gap: 6px;
+        
+        
+        }
+        .inp{
+        width: 320px;
+        height: 30px;
+        padding-top: 14px;
+        padding-right: 14px;
+        padding-bottom: 14px;
+        padding-left: 14px;
+        gap: 8px;
+        border-radius: 8px;
+        border-width: 1px;
+        border: 1px solid #D6D6D6;
+        
+        
+        
+            
+            
+        }
+        .content{
+            width: 100px;
+        height: 24px;
+        gap: 8px;
+        
+        }
+        .co1{
+            width: 16.66666603088379px;
+        height: 13.333333015441895px;
+        top: 3.33px;
+        left: 1.67px;
+        border-width: 1.67px;
+        
+        }
+        
+        #UID{
+        width: 292px;
+        height: 24px;
+        font-family: Plus Jakarta Sans;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0%;
+        border: none;
+        
+        
+        
+        }
+        .but{
+        width: 350px;
+        height: 60px;
+        gap: 8px;
+        margin-top: -15px;
+        border-radius: 8px;
+        border-width: 1px;
+        padding-top: 16px;
+        padding-right: 24px;
+        padding-bottom: 16px;
+        padding-left: 24px;
+        background: #2B3A67;
+        border: 1px solid #2B3A67;
+        box-shadow: 0px 1px 2px 0px #1018280D;
+        color: #FCFCFC;
+        font-family: Plus Jakarta Sans;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 28px;
+        letter-spacing: 0%;
+        }
+        .but:hover {
+            background: #1E2A4D;
+        }
+        .link{
+            width: 292px;
+        height: 24px;
+        font-family: Plus Jakarta Sans;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0%;
+        border: none;
+        margin-left: 624px;
+        text-decoration: none;
+        }
+        a:link{
+            text-decoration: none;
+        }
+        .para{
+            font-size: 12px;
+            width:250px;
+            color:red;
+            margin-top: 30px;
+        }
+        .para1{
+            font-size: 12px;
+            width:250px;
+            color:red;
+            margin-top: 20px;
+            margin-bottom:32px ;
+        }
+        .image{
+            width: 390px;
+            height: 350px;
+            margin-left: 500px;
+        }
+        .hel{
+            background-color: #e74219;
+            height:685px;
+            width: 100%;
+        }
+        .p1{
+            color:aqua;
+            font-size: xx-large;
+            margin-top: 10px;
+            margin-left: 620px;
+        }
+        
+        
+        
+        
+        @media (max-width: 768px) {
+            
+            
+            .for{
+                width: 100px;
+                top: 700px;
+                margin-top: 370px;
+               
+            }
+            
+        
+            .he {
+                font-size: 105px;
+                width: 900px;
+                margin-left: -393px;
+                position: relative;
+
+        
+            }
+            .inp{
+                width: 900px;
+                height: 100px;
+                margin-left: -450px;
+                margin-top: 90px;
+                
+            }
+            #UID{
+                font-size: 45px;
+                height: 90px;
+                width: 900px;
+            }
+        
+            .but {
+                height: 100px;
+                width: 930px;
+                font-size:36px;
+                margin-left: -450px;
+                margin-top: 80px;
+        
+            }
+            .link{
+                font-size:46px;
+                margin-top: 442px;
+                height: 65px;
+                width: 900px;
+                position: absolute;
+                margin-left: 230px;
+                
+            }
+            .para{
+                font-size: 32px;
+                width:750px;
+                color:red;
+                margin-top: 30px;
+            }
+            .para1{
+                font-size: 32px;
+                width:750px;
+                color:red;
+                margin-top: 25px;
+                margin-bottom:32px ;
+            }
+            .image{
+                width: 390px;
+                height: 350px;
+                margin-left: -5px;
+               
+            }
+            .hel{
+                background-color: white;
+            }
+            .p1{
+                color:rgb(0, 255, 85);
+                font-size: xx-large;
+                font-weight: 900;
+                margin-left: -5px;
+                
+            }
+        }
+        @media(max-width:1024px) { 
+            @media(min-width:740px) {
+                .for{
+                    width: 700px;
+                    margin-top: 100px;
+                }
+                .link{
+                    
+                    width: 900px;
+                    
+                    
+                }
+        
+            }}
